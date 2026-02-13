@@ -1,0 +1,9 @@
+<div class="profile-container">
+  <h1>Il Tuo Profilo</h1>
+  <p>Benvenuto, <strong>{{ userEmail }}</strong></p>
+  
+  <div class="actions">
+    <button (click)="logout()">Logout</button>
+    <button routerLink="/home">Torna alla Home</button>
+  </div>
+</div>
