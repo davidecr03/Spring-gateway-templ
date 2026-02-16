@@ -1,6 +1,4 @@
-Hai ragione, Davide. GitHub ha delle regole specifiche per il GFM (GitHub Flavored Markdown): se non lasci una riga vuota tra un testo e un titolo o una lista, il rendering si "rompe" e i titoli non diventano grandi o il grassetto si incasina.
 
-Ecco la versione pulita, ottimizzata per GitHub, con la spaziatura corretta e i blocchi di codice pronti.
 
 🚀 Spring Boot & Angular Microservices Template
 Questo repository è un Template Ready-to-Use per un'architettura a microservizi moderna. Include un sistema di autenticazione centralizzato con JWT, un API Gateway per il routing e un frontend Angular Standalone.
